@@ -1,5 +1,4 @@
 import dotenv from "dotenv";
-import cloudinary from "./utils/cloudinary";
 
 dotenv.config()
 
